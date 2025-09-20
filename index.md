@@ -1,5 +1,7 @@
 ---
 title: ABC
+layout: template
+filename: index.md
 ---
 
 # Header
