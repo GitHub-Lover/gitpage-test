@@ -1,6 +1,6 @@
 ---
 title: ABC
-layout: template
+layout: default
 filename: index.md
 ---
 
